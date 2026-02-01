@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there!
 
-<!--
-**p-sabiha/p-sabiha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bioinformatics | Genomics | Drug Discovery**
 
-Here are some ideas to get you started:
+M.Sc. Medical Bioinformatics @ Sri Ramachandra, Chennai
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I Do
+
+Bridging wet lab and computational biology — from PCR tubes to Python scripts.
+
+---
+
+## Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+**Bioinformatics:** BLAST | ClustalW | NCBI | Ensembl | EMBOSS
+
+**Lab Skills:** PCR | Molecular Cloning | DNA Sequencing | Phytochemical Screening
+
+---
+
+## Research
+
+| Where | What |
+|-------|------|
+| IISER Tirupati | Plant bioactives & cheminformatics |
+| Genolites R&D | GABA-producing psychobiotics |
+| Bioxone Bioscience | Molecular cloning & gene transfer |
+
+---
+
+## Let's Connect
+
+[![Email](https://img.shields.io/badge/-patansabiha786@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:patansabiha786@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sabiha-patan)
+
+---
+
+*Open to internships & research collaborations*
