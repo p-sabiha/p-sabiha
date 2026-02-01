@@ -37,7 +37,7 @@ Bridging wet lab and computational biology — from PCR tubes to Python scripts.
 
 ## Let's Connect
 
-[![Email](https://img.shields.io/badge/-patansabiha786@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:patansabiha786@gmail.com)
+[![Email](https://img.shields.io/badge/-patansabiha786@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ps.patansabiha@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sabiha-patan)
 
 ---
